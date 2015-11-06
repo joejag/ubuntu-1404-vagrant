@@ -1,6 +1,6 @@
 # ubuntu-1404-vagrant
 
-VM for ruby-2.2 and node-4.2.2 dev
+VM for ruby-2.2 and node-4.2.2 dev with a Ubuntu desktop.
 
 # Generic Steps
 

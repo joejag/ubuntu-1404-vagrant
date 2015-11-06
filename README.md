@@ -6,6 +6,7 @@ VM for ruby and node dev
 
 * Install VirtualBox
 * Install Vagrant
+* git clone git@github.com:joejag/ubuntu-1404-vagrant.git
 * Run run.sh
 * Enjoy
 

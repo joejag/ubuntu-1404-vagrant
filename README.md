@@ -11,8 +11,10 @@ VM for ruby and node dev
 
 # OSX Steps
 
-* brew install caskroom/cask/brew-cask
-* brew cask install virtualbox
-* brew cask install vagrant
-* git clone git@github.com:joejag/ubuntu-1404-vagrant.git
-* ./run.sh
+```
+brew install caskroom/cask/brew-cask
+brew cask install virtualbox
+brew cask install vagrant
+git clone git@github.com:joejag/ubuntu-1404-vagrant.git
+./run.sh
+```

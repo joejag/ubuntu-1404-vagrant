@@ -7,7 +7,7 @@ VM for ruby-2.2 and node-4.2.2 dev
 * Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * Install [Vagrant](http://www.vagrantup.com/downloads)
 * git clone git@github.com:joejag/ubuntu-1404-vagrant.git
-* Run run.sh
+* Run run.sh or run.bat
 * Enjoy
 
 # OSX Steps
